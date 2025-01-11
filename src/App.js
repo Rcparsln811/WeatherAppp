@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="App">
       <div className="weather-container">
-        <h1>Weather App</h1>
+        <h1>Hava Durumu</h1>
         <div className="search-bar">
           <input
             type="text"
